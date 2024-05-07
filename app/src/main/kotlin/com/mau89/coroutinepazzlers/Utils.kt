@@ -1,3 +1,5 @@
+package com.mau89.coroutinepazzlers
+
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.newFixedThreadPoolContext
 
