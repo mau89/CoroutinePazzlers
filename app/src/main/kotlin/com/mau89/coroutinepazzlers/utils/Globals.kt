@@ -1,4 +1,4 @@
-package com.mau89.coroutinepazzlers
+package com.mau89.coroutinepazzlers.utils
 
 import kotlin.time.Duration
 import kotlin.time.Duration.Companion.milliseconds

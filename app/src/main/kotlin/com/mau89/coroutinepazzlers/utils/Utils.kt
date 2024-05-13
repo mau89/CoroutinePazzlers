@@ -1,4 +1,4 @@
-package com.mau89.coroutinepazzlers
+package com.mau89.coroutinepazzlers.utils
 
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.newFixedThreadPoolContext

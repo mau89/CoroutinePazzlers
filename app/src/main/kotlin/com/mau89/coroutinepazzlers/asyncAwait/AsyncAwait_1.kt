@@ -1,7 +1,7 @@
 package com.mau89.coroutinepazzlers.asyncAwait
 
-import com.mau89.coroutinepazzlers.now
-import com.mau89.coroutinepazzlers.passed
+import com.mau89.coroutinepazzlers.utils.now
+import com.mau89.coroutinepazzlers.utils.passed
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking

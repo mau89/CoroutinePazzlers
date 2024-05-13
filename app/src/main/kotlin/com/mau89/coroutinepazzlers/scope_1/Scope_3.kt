@@ -4,8 +4,8 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 import kotlinx.coroutines.withContext
-import com.mau89.coroutinepazzlers.threadName
-import com.mau89.coroutinepazzlers.threadsScheduler
+import com.mau89.coroutinepazzlers.utils.threadName
+import com.mau89.coroutinepazzlers.utils.threadsScheduler
 
 fun main() {
     runBlocking {
